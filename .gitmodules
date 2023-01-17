@@ -1,0 +1,6 @@
+[submodule "server-FullstackNoteApp"]
+	path = server-FullstackNoteApp
+	url = https://github.com/SantiagoBenitezPerez/server-FullstackNoteApp.git
+[submodule "client-FullstackNoteApp"]
+	path = client-FullstackNoteApp
+	url = https://github.com/SantiagoBenitezPerez/client-FullstackNoteApp.git
